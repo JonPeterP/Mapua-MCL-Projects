@@ -22,7 +22,3 @@ Projects
 - TasTrans-BPIMS — TasTrans Corporations Bus Parts Inventory Management System  
   https://github.com/JonPeterP/TasTrans-BPIMS  
   Language composition: HTML (34.2%), C# (34.1%), CSS (31.7%)
-
-Notes
-- If any repo is private, either make it public temporarily or add your teacher as a collaborator so they can view it.
-- You can add screenshots, badges, or short README excerpts for each project if you want more detail.
