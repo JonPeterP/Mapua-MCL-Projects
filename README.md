@@ -22,3 +22,7 @@ Projects
 - TasTrans-BPIMS — TasTrans Corporations Bus Parts Inventory Management System  
   https://github.com/JonPeterP/TasTrans-BPIMS  
   Language composition: HTML (34.2%), C# (34.1%), CSS (31.7%)
+
+- Little Chimken - Game Development Project for IT174P
+  https://github.com/JonPeterP/LittleChimken  
+  Language composition: C# (37.9%), HTML (25.1%), ShaderLab (21.1%), PHP (8.1%), Mathematica (4.1%), HLSL (3.7%)
