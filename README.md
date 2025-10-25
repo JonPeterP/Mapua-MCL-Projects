@@ -27,7 +27,7 @@ Below are the main projects included in this collection. Click the project name 
     ![TasTrans screenshot](imgs/tastrans01.png)
 
 - **Little Chimken** — Game Development (IT174P)
-  - Repo: https://github.com/JonPeterP/LittleChimken
+  - Repo: https://github.com/JonPeterP/LittleChimken-SinglePlayer
   - Languages: C#, HTML, ShaderLab, PHP, Mathematica, HLSL
   - Screenshot:
     ![Little Chimken screenshot](imgs/chimken01.png)
