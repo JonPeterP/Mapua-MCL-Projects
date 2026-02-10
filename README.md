@@ -1,6 +1,5 @@
 # Mapua MCL Projects — Course & Thesis Projects
 
-A curated list of course, module, and thesis projects by Jon Peter Pomperada (JonPeterP).
 This repository aggregates links, short descriptions, and screenshots so you can quickly browse my work.
 
 
